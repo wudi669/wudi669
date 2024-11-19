@@ -14,4 +14,4 @@ Assistant Professor of Robotics
 
 Contact: diwu(at)mmmi(dot)sdu(dot)dk
 
-
+My research focuses on **medical/surgical robotics**, where I specialize in the **control, sensing, and design** of these advanced systems.
