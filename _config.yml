@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Di WU"
+title                    : "Di WU Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_2282.jpg"
   name             : "Di WU"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor in Robotics @ SDU"
+  bio              : "Assistant Professor in Robotics @ University of Southern Denmark (SDU)"
   location         : "Odense, Denmark"
   employer         : "University of Southern Denmark"
   uri              : # URL
