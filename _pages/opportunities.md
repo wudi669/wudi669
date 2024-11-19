@@ -32,8 +32,8 @@ We seek candidates with a Master’s degree in one of the following fields:
 + Biomedical Engineering
 + Information Technology
 
-Preferred Expertise:
-Your work will involve cutting-edge research in two or more of the following areas:
+The candidate is expected to possess expertise in at least two of the following areas:
+
 + Surgical/Medical Robotics
 + Machine Learning/Deep Learning/Reinforcement Learning
 + Robot Control/Modeling
@@ -42,7 +42,8 @@ Your work will involve cutting-edge research in two or more of the following are
 + Robot Kinematics and Dynamics
 + Augmented Reality
 + Mechanical and Mechatronics Design
-+ Embeded System  
++ Embeded System
+  
 Ideal candidates should demonstrate strong teamwork skills, professional diligence, and enthusiasm for robotics, along with the drive to learn and take on new challenges.
 
 Research environment 
