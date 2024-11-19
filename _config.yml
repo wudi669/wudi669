@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2282.jpg"
+  avatar           : "good.JPG"
   name             : "Di WU"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Robotics @ University of Southern Denmark (SDU)"
