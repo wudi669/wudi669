@@ -7,7 +7,7 @@ redirect_from:
   - /opportunities.html
 ---
 
-We are expanding our team! We are looking for passionate individuals to join us as **PhD students, research assistants, or master’s thesis students** to contribute to our exciting research in medical robotics.
+We are expanding our team! We are looking for passionate individuals to join us as **PhD students, Research Assistants (RAs), or master’s thesis students** to contribute to our exciting research in medical robotics.
 
 How to Apply
 -----
@@ -19,7 +19,7 @@ Submit the following documents to diwu(at)mmmi(dot)sdu(dot)dk:
 +  Two recommendation letters
 +  (Optional) Research statement
 
-Application Deadline: Applications will be reviewed on a rolling basis until the positions are filled.
+Applications will be reviewed on a rolling basis until the positions are filled.
 
 Who We’re Looking For
 -------
@@ -35,7 +35,7 @@ We seek candidates with a Master’s degree in one of the following fields:
 Preferred Expertise:
 Your work will involve cutting-edge research in two or more of the following areas:
 + Surgical/Medical Robotics
-+ Deep Learning/Reinforcement Learning
++ Machine Learning/Deep Learning/Reinforcement Learning
 + Robot Control/Modeling
 + Sensing and Multi-Sensor Fusion
 + Good Mathematical Skills
