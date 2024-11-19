@@ -30,5 +30,5 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-#    - title: "Opportunities"
-#    url: /opportunities/
+    - title: "Opportunities"
+      url: /opportunities/
