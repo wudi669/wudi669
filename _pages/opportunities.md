@@ -42,7 +42,7 @@ Your work will involve cutting-edge research in two or more of the following are
 + Robot Kinematics and Dynamics
 + Augmented Reality
 + Mechanical and Mechatronics Design
-+ Embeded System
++ Embeded System  
 Ideal candidates should demonstrate strong teamwork skills, professional diligence, and enthusiasm for robotics, along with the drive to learn and take on new challenges.
 
 Research environment 
