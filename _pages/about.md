@@ -8,9 +8,9 @@ redirect_from:
 ---
 ---
 Assistant Professor of Robotics   
-SDU Robotics  
-The Maersk Mc Kinney Moller Institute  
-University of Southern Denmark  
+[SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics)  
+[The Maersk Mc Kinney Moller Institute](https://www.sdu.dk/da/om-sdu/institutter-centre/mmmi_maersk_mckinney_moeller)
+[University of Southern Denmark](https://www.sdu.dk/da)  
 
 
 For more info
