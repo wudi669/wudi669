@@ -42,4 +42,4 @@ I focus on the mechanical and electromechanical design of surgical robotic syste
 
 News
 ----
-+  We are hiring! Check out the [Opportunities](opportunities) section for more details!
++  We are hiring! Check out the [Opportunities](opportunities) section for more details! (November 2024)

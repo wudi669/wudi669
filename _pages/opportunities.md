@@ -31,6 +31,7 @@ We seek candidates with a Master’s degree in one of the following fields:
 + Computer Science
 + Biomedical Engineering
 + Information Technology
++ ...
 
 The candidate is expected to possess expertise in at least two of the following areas:
 
@@ -43,7 +44,7 @@ The candidate is expected to possess expertise in at least two of the following 
 + Augmented Reality
 + Mechanical and Mechatronics Design
 + Embeded System
-  
+
 Ideal candidates should demonstrate strong teamwork skills, professional diligence, and enthusiasm for robotics, along with the drive to learn and take on new challenges.
 
 Research environment 
