@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "About Me"
+title: "Dr. Di WU"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Dr. Di WU
-Assistant Professor of Robotics
+---
+Assistant Professor of Robotics   
+SDU Robotics  
+The Maersk Mc Kinney Moller Institute  
+University of Southern Denmark  
 
 
 For more info
