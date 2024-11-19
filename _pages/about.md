@@ -22,4 +22,4 @@ My research focuses on **medical/surgical robotics**, where I specialize in the 
 
 News
 ----
-+  We are hiring! Check out the [Opportunities](#opportunities) section for more details!
++  We are hiring! Check out the [Opportunities](opportunities) section for more details!
