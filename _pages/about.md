@@ -12,7 +12,6 @@ Assistant Professor of Robotics
 [The Maersk Mc Kinney Moller Institute](https://www.sdu.dk/da/om-sdu/institutter-centre/mmmi_maersk_mckinney_moeller)  
 [University of Southern Denmark](https://www.sdu.dk/en)  
 
-
-For more info
+Contact: diwu(at)mmmi(dot)sdu(dot)dk
 
 
