@@ -21,6 +21,27 @@ Submit the following documents to diwu(at)mmmi(dot)sdu(dot)dk:
 
 Application Deadline: Applications will be reviewed on a rolling basis until the positions are filled.
 
+Who We’re Looking For
+-------
+We seek candidates with a Master’s degree in one of the following fields:
+
++Electrical Engineering
++Mechanical Engineering
++Computer Science
++Biomedical Engineering
+
+Preferred Expertise:
+Your work will involve cutting-edge research in one or more of the following areas:
++ Surgical/Medical Robotics
++ Deep Learning
++ Reinforcement Learning
++ Robot Control
++ Robot Sensing and Multi-Sensor Fusion
++ Augmented Reality
++ Mechanical and Mechatronics Design
++ Embeded System
+Ideal candidates should demonstrate strong teamwork skills, professional diligence, and enthusiasm for robotics, along with the drive to learn and take on new challenges.
+
 Research environment 
 -------------
 The candidate(s) will be integrated in the section [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), which is a team of approx. 50 employees, specialized in research and development of robot solutions within the medical, welfare and industrial domain. We value teamwork, professional diligence, enthusiasm for robotics and the drive to adopt new skills and extended responsibilities. We offer an open, international team with flexible work organization and support of individual development.
