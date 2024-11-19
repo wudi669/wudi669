@@ -4,5 +4,8 @@ title: "Opportunities"
 permalink: /opportunities/
 author_profile: true
 ---
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-We are expanding our team! We are looking for passionate students to join us as **PhD students, research assistants, or master’s thesis students** to contribute to our exciting research in medical robotics.
+{% include base_path %}
