@@ -25,18 +25,21 @@ Who We’re Looking For
 -------
 We seek candidates with a Master’s degree in one of the following fields:
 
-+Electrical Engineering
-+Mechanical Engineering
-+Computer Science
-+Biomedical Engineering
++ Robotics
++ Electrical Engineering
++ Mechanical Engineering
++ Computer Science
++ Biomedical Engineering
++ Information Technology
 
 Preferred Expertise:
-Your work will involve cutting-edge research in one or more of the following areas:
+Your work will involve cutting-edge research in two or more of the following areas:
 + Surgical/Medical Robotics
-+ Deep Learning
-+ Reinforcement Learning
-+ Robot Control
-+ Robot Sensing and Multi-Sensor Fusion
++ Deep Learning/Reinforcement Learning
++ Robot Control/Modeling
++ Sensing and Multi-Sensor Fusion
++ Good Mathematical Skills
++ Robot Kinematics and Dynamics
 + Augmented Reality
 + Mechanical and Mechatronics Design
 + Embeded System
