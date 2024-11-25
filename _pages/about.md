@@ -14,7 +14,7 @@ Assistant Professor of Robotics
 
 also affiliated with
 
-Assistant Professor
+Assistant Professor  
 [Danish Institute for Advanced Study (DIAS)](https://www.sdu.dk/en/forskning/dias)
 
 Contact: diwu(at)mmmi(dot)sdu(dot)dk
