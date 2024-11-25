@@ -9,8 +9,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/   
 
-#  - title: "My Research"
-#    url: /research/
+  - title: "My Research"
+    url: /research/
     
   - title: "Publications"
     url: /publications/
